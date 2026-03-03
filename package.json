@@ -1,0 +1,37 @@
+{
+  "name": "terminal-clock",
+  "version": "1.0.0",
+  "description": "Terminal clock with timezones, stopwatch, countdown timer, and pomodoro mode — zero dependencies",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "terminal-clock": "./index.js",
+    "tclock": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "clock",
+    "timer",
+    "pomodoro",
+    "stopwatch",
+    "timezone",
+    "terminal",
+    "countdown",
+    "productivity"
+  ],
+  "author": "NickCirv",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
