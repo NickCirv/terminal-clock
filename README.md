@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # terminal-clock
 
 Developer terminal clock with multiple timezones, stopwatch, countdown timer, and pomodoro mode.
