@@ -9,7 +9,8 @@
     "tclock": "./index.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node --test"
   },
   "keywords": [
     "developer-tools",
@@ -28,7 +29,7 @@
   "author": "NickCirv",
   "license": "MIT",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20"
   },
   "files": [
     "index.js",
